@@ -1,0 +1,9 @@
+streamlit
+requests
+Pillow
+fastapi
+uvicorn
+pydantic
+google-generativeai
+plotly
+bs4 
